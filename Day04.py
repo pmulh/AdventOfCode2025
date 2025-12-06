@@ -1,6 +1,6 @@
 import numpy as np
-with open('Day3SampleInput.txt', 'r') as file:
-# with open('Day3Input.txt', 'r') as file:
+with open('Day04SampleInput.txt', 'r') as file:
+# with open('Day04Input.txt', 'r') as file:
     data = file.read()
 lines = data.strip().split('\n')
 data_array = []

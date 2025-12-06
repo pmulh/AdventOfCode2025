@@ -1,7 +1,7 @@
 import numpy as np
 
-# with open('Day2SampleInput.txt', 'r') as file:
-with open('Day2Input.txt', 'r') as file:
+# with open('Day02SampleInput.txt', 'r') as file:
+with open('Day02Input.txt', 'r') as file:
     lines = file.readlines()
 ranges = lines[0].strip(',\n').split(',')
 

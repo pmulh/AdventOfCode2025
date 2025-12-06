@@ -1,5 +1,5 @@
-# with open('Day1SampleInput.txt', 'r') as file:
-with open('Day1Input.txt', 'r') as file:
+# with open('Day01SampleInput.txt', 'r') as file:
+with open('Day01Input.txt', 'r') as file:
     lines = file.readlines()
 
 lines = [line.strip() for line in lines]

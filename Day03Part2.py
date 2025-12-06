@@ -2,8 +2,8 @@ import numpy as np
 
 REQUIRED_DIGITS = 12
 
-# with open('Day3SampleInput.txt', 'r') as file:
-with open('Day3Input.txt', 'r') as file:
+# with open('Day03SampleInput.txt', 'r') as file:
+with open('Day03Input.txt', 'r') as file:
     lines = file.readlines()
 lines = [line.strip() for line in lines]
 
